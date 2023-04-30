@@ -1,0 +1,6 @@
+__pycache__/
+
+train/
+numbers_labels.csv
+
+csvFileCreate.py
